@@ -1,0 +1,9 @@
+injector
+test_hello
+fake_strip
+parasite.o
+parasite.elf
+parasite.bin
+parasite_blob.h
+result
+*.infected
